@@ -1,0 +1,23 @@
+
+body{
+    
+}
+.container{
+    height: 100vh;
+    width: 100%;
+}
+
+.slides{
+    height: 100vh;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.about-me img{
+    filter: drop-shadow(1px 1px 10px #000000);
+}
+
+.slides hr{
+    color: black;
+    font-weight: 1000px;
+}
