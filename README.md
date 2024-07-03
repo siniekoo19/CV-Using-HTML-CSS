@@ -1,2 +1,1 @@
-# CV-Using-HTML-CSS
-CV-Using-HTML-CSS
+# Digital-Resume-Using-HTML-CSS-BOOSTRAP
